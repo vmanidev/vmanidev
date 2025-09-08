@@ -10,5 +10,3 @@ I am a **Software Engineer – Frontend** with around **5 years of experience** 
 
 ## 🚀 About Me
 I specialize in creating **high-performance, user-friendly interfaces** that deliver great user experiences. I enjoy working with modern frontend technologies and continuously exploring new tools and patterns to improve web development efficiency.
-
-<img src="https://streak-stats.demolab.com?user=vmanidev&theme=dark" alt="GitHub Streak" />
