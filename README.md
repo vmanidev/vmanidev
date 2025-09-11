@@ -35,3 +35,6 @@ I am a **Frontend Software Engineer** with **5 years of experience** building **
 ![UI/UX](https://img.shields.io/badge/UI_UX-Best_Practices-orange)
 
 ---
+
+### Contributions 
+![Open Source Contributions](https://streak-stats.demolab.com/?user=vmanidev)
