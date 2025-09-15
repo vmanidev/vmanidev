@@ -27,7 +27,7 @@ I am a **Frontend Software Engineer** with **5 years of experience** building **
 
 ---
 
-## Contributions 
-![Contributions](https://streak-stats.demolab.com/?user=vmanidev&theme=dark) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmanidev&show_icons=true&hide_rank=true&theme=dark) 
+## Contributions  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmanidev&show_icons=true&hide_rank=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmanidev&theme=dark&layout=compact)
+![Contributions](https://streak-stats.demolab.com/?user=vmanidev&theme=dark)
