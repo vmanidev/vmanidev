@@ -6,7 +6,7 @@ I am a **Frontend Software Engineer** with **5 years of experience** building **
 ## 🚀 About Me
 - Passionate about building **responsive and accessible web applications**.
 - Skilled in **modern frontend frameworks** and **state management**.
-- Continuously exploring **new tools and design patterns** to improve efficiency.
+- Exploring **UI/UX best practices** and **design patterns** to develop scalable, user-friendly applications.
 
 ---
 
@@ -24,12 +24,3 @@ I am a **Frontend Software Engineer** with **5 years of experience** building **
 ![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-
----
-
-## Contributions  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmanidev&layout=compact&hide_title=true&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmanidev&show_icons=true&rank_icon=percentile&hide_title=true&theme=dark)
-
-![Contributions](https://streak-stats.demolab.com/?user=vmanidev&theme=dark)
