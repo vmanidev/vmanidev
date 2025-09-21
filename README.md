@@ -24,3 +24,7 @@ I am a **Frontend Software Engineer** with **5 years of experience** building **
 ![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+
+## Contributions 
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=vmanidev&show_icons=true)
+![streak-stats](https://streak-stats.demolab.com/?user=vmanidev)
