@@ -26,4 +26,6 @@ I am a **Frontend Software Engineer** with **5 years of experience** building **
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 
 ## 🤝 Contributions
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=vmanidev&show_icons=true)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=vmanidev&show_icons=true) 
+![streak-stats](https://streak-stats.demolab.com/?user=vmanidev)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmanidev&layout=compact)
